@@ -1,4 +1,4 @@
-# flutter-image-preview
+# flutter_qr_code_scan
 ### 初衷
 在实际APP开发中，扫一扫是必不可少的组件，通过qr_code_scanner来进行封装，以此分享
 
