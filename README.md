@@ -34,6 +34,7 @@ QrcodeScanPage()
 ```
 
 ### 效果
+![639f62a90ba415685c88f84b5bf9bcc0](https://user-images.githubusercontent.com/49790909/159233831-a84227b9-3284-42c2-bdd2-274f06c87525.jpg)
 
 
 
